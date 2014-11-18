@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Partner SDK Sample</string>
+    <string name="get_help">Get Help</string>
+    <string name="view_demo">View demo</string>
+    <string name="android_partner_sdk">Android Partner SDK</string>
+
+</resources>
