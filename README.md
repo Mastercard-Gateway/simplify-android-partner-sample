@@ -29,7 +29,7 @@ or Maven:
     <dependency>
         <groupId>com.simplify</groupId>
         <artifactId>partner-sdk-android</artifactId>
-        <version>1.0</version>
+        <version>1.0.0</version>
         <type>aar</type>
     </dependency>
 
