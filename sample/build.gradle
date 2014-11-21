@@ -21,6 +21,6 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    androidTestCompile ('com.google.android.apps.common.testing:espresso:1.1')
-    compile project('..:..:mpos-sdk:libraries:partner')
+    compile files('libs/magtek-scra.jar')
+    compile 'com.simplify:partner-sdk-android:1.0.0'
 }
