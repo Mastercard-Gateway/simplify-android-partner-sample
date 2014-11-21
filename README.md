@@ -22,7 +22,7 @@ In your project's build.gradle file, include the ksoap2 repository by adding the
 
 In your app module, include the partner SDK dependency via Gradle:
 
-    compile 'com.simplify:partner-sdk-android:1.0.0'
+    compile 'com.simplify:partner-sdk-android:1.0.0@aar'
 
 or Maven:
 
